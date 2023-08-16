@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/ruiblogs/sitemap.xml
+Sitemap: https://huang-ruifang.gitee.io/ruiblogs/ruiblogs/sitemap.xml
