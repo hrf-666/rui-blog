@@ -4,6 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
+bgImage: /bg-flower.jpg
 heroText: Rui Blog
 heroFullScreen: true
 tagline: 好好生活，保持热爱
