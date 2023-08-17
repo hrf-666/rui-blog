@@ -1,9 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-import { copyCodePlugin } from "vuepress-plugin-copy-code2";
-import { photoSwipePlugin } from "vuepress-plugin-photo-swipe";
-import { commentPlugin } from "vuepress-plugin-comment2";
-import { hopeTheme } from "vuepress-theme-hope";
+
 import { gitPlugin } from "@vuepress/plugin-git";
 
 import theme from "./theme.js";
@@ -12,17 +9,10 @@ export default defineUserConfig({
   base: "/ruiblogs/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "Rui的博客|Rui Blog",
+  description: "技术分享，资源分享",
 
   theme,
-  // theme: hopeTheme({
-  //   plugins: {
-  //     mdEnhance: {
-  //       card: true,
-  //     },
-  //   },
-  // }),
 
   // Enable it with pwa
   shouldPrefetch: false,
@@ -42,21 +32,6 @@ export default defineUserConfig({
           formatter: "标签：$content",
         },
       ],
-    }),
-    //  代码复制按钮
-    copyCodePlugin({
-      // 插件选项
-    }),
-    //  图片预览
-    photoSwipePlugin({
-      // 你的选项
-    }),
-    //  评论
-    commentPlugin({
-      provider: "Artalk", // Artalk | Giscus | Waline | Twikoo
-
-      // 在这里放置其他选项
-      // ...
     }),
     gitPlugin({
       // 配置项
