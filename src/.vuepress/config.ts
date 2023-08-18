@@ -1,6 +1,5 @@
 import { defineUserConfig } from "vuepress";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-
 import { gitPlugin } from "@vuepress/plugin-git";
 
 import theme from "./theme.js";
@@ -40,6 +39,7 @@ export default defineUserConfig({
       contributors: true,
 
     }),
+
 
 
 

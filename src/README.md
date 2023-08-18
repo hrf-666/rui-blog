@@ -36,7 +36,7 @@ projects:
 
   - icon: friend
     name: lautrans
-    desc: 这是一个博客社区
+    desc: 优秀的博客社区
     link: https://www.lautrans.cn
 
   - icon: /logo.svg
