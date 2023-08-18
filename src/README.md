@@ -25,9 +25,9 @@ projects:
     link: https://huang-ruifang.gitee.io/hrf-blog
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 书籍百科
+    desc: (暂时存放《英语词根词缀记忆大全.pdf》书籍的连接)
+    link: https://huang-ruifang.gitee.io/pdf-book/web/viewer.html?file=%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AE%B0%E5%BF%86%E5%A4%A7%E5%85%A8.pdf
 
   - icon: article
     name: 文章名称
