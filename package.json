@@ -15,9 +15,13 @@
     "@vuepress/plugin-git": "^2.0.0-beta.66",
     "vue": "^3.3.4",
     "vuepress": "2.0.0-beta.66",
+    "vuepress-plugin-comment": "^0.7.3",
     "vuepress-plugin-copy-code2": "^2.0.0-beta.235",
     "vuepress-plugin-copyright2": "^2.0.0-beta.235",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-plugin-photo-swipe": "^2.0.0-beta.235",
+    "vuepress-plugin-ribbon": "^1.1.6",
     "vuepress-plugin-search-pro": "^2.0.0-beta.235",
     "vuepress-theme-hope": "2.0.0-beta.235"
   }
