@@ -4,6 +4,29 @@ export default navbar([
   "/",
   "/demo/",
   {
+    text: "Java开发",
+    icon: "java",
+    prefix: "/posts/java/",
+    children: [
+      {
+        text: "Java基础",
+        icon: "file",
+        prefix: "JavaBase/",
+        children: [
+          { text: "测试", icon: "file", link: "1" },
+        ],
+      },
+      {
+        text: "Java进阶",
+        icon: "pen-to-square",
+        prefix: "JavaBase/",
+        children: [
+          { text: "测试", icon: "pen-to-square", link: "1" },
+        ],
+      },
+    ],
+  },
+  {
     text: "博文",
     icon: "pen-to-square",
     prefix: "/posts/",
