@@ -17,6 +17,7 @@ export default navbar([
           { text: "苹果2", icon: "pen-to-square", link: "2" },
           "3",
           "4",
+          "5"
         ],
       },
       {
