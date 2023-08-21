@@ -64,11 +64,11 @@ export default hopeTheme({
             // Rss: "https://example.com",
             // Steam: "https://example.com",
             // Twitter: "https://example.com",
-            // Wechat: "https://example.com",
+            Wechat: "https://example.com",
             // Weibo: "https://example.com",
             // Whatsapp: "https://example.com",
             // Youtube: "https://example.com",
-            // Zhihu: "https://example.com",
+            Zhihu: "https://example.com",
             // MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
         },
     },
@@ -102,7 +102,10 @@ export default hopeTheme({
         comment: {
             // You should generate and use your own comment service
             provider: "Waline",
-            serverURL: "https://rui-comment-9ak8keala-huangruifang0529-163com.vercel.app/",
+            // 个人服务实在太慢
+            // serverURL: "https://rui-comment-9ak8keala-huangruifang0529-163com.vercel.app/",
+            // 使用官方网站的更快速
+            serverURL: "https://waline-comment.vuejs.press",
             locale: {
 
             },
