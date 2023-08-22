@@ -5,23 +5,23 @@ export default navbar([
   "/demo/",
   {
     text: "Java开发",
-    icon: "java",
-    prefix: "/posts/java/",
+    icon: "graduation-cap",
+    prefix: "/posts/Java/",
     children: [
       {
         text: "Java基础",
         icon: "file",
         prefix: "JavaBase/",
         children: [
-          { text: "测试", icon: "file", link: "1" },
+          { text: "测试", icon: "file", link: "测试" },
         ],
       },
       {
         text: "Java进阶",
-        icon: "pen-to-square",
-        prefix: "JavaBase/",
+        icon: "creative",
+        prefix: "JavaBase2/",
         children: [
-          { text: "测试", icon: "pen-to-square", link: "1" },
+          { text: "测试2", icon: "pen-to-square", link: "1" },
         ],
       },
     ],
@@ -40,7 +40,7 @@ export default navbar([
           { text: "苹果2", icon: "pen-to-square", link: "2" },
           "3",
           "4",
-          { text: "随便写写", icon: "pen-to-square", link: "5" },
+          { text: "随便写写", icon: "pen-to-square", link: "随便写写" },
         ],
       },
       {
