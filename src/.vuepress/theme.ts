@@ -14,7 +14,13 @@ export default hopeTheme({
         url: "https://huang-ruifang.gitee.io/ruiblogs",
     },
 
+    // iconAssets: ["fontawesome-with-brands","iconfont",
+    //     "https://at.alicdn.com/t/c/font_4219550_c5ye11o6dap.css"
+    // ],
+    // 查找图标连接 ：https://www.runoob.com/font-awesome/fontawesome-icons-text.html
     iconAssets: "fontawesome-with-brands",
+
+    // iconPrefix: "icon-",
 
     logo: "/logo.svg",
 
@@ -94,7 +100,7 @@ export default hopeTheme({
             showInMobile: true,//展示在移动端
 
         },
-        copyright:{
+        copyright: {
             global: true,
             triggerWords: 10,
             author: 'Rui'
@@ -106,9 +112,7 @@ export default hopeTheme({
             // serverURL: "https://rui-comment-9ak8keala-huangruifang0529-163com.vercel.app/",
             // 使用官方网站的更快速
             serverURL: "https://waline-comment.vuejs.press",
-            locale: {
-
-            },
+            locale: {},
 
         },
 
