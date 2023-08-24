@@ -202,7 +202,7 @@ export default navbar([
             {
                 text: "程序员导航",
                 icon: "book",
-                link: "https://mouday.github.io/hao123/",
+                link: "https://hrf-666.github.io/navigation/",
             },
             {
                 text: "学习笔记",
