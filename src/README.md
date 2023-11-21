@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /logo.png
 bgImage: /leaves-bg.jpg
 heroText: Rui Blog
 heroFullScreen: true

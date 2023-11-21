@@ -11,12 +11,10 @@ import theme from "./theme.js";
 // @ts-ignore
 export default defineUserConfig({
     base: "/ruiblogs/",
-
     lang: "zh-CN",
     title: "Rui的博客 | Rui Blog",
     description: "技术分享，资源分享",
     theme,
-
     // Enable it with pwa
     shouldPrefetch: false,
     plugins: [

@@ -22,7 +22,7 @@ export default hopeTheme({
 
     // iconPrefix: "icon-",
 
-    logo: "/logo.svg",
+    logo: "/logo.png",
 
     repo: "vuepress-theme-hope/vuepress-theme-hope",
 
