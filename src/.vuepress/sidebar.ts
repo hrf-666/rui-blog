@@ -22,6 +22,12 @@ export default sidebar({
             prefix: "posts/",
             children: "structure",
         },
+        {
+            text: "面试",
+            icon: "book",
+            prefix: "interview/",
+            children: "structure",
+        },
         "intro",
         "slides",
     ],
