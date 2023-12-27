@@ -23,6 +23,9 @@ export const pluginsConfig = {
     //     locale: {},
     //
     // },
+    mdEnhance: {
+        component: true,
+    },
 
     // all features are enabled for demo, only preserve features you need here
     // mdEnhance: {
