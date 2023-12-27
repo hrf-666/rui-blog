@@ -37,10 +37,35 @@
 </template>
 
 <script setup>
-import {navLists} from "../api/navList";
+// import {navLists} from "/api/navList";
 
-console.log(navLists)
-const navList = ref(navLists)
+// console.log(navLists)
+const navList = ref([
+  {
+    // https://www.baidu.com/favicon.ico
+    title: "浏览器 | 搜索",
+    arr: [
+      {
+        nav: "百度",
+        nav_url: "https://www.baidu.com",
+        nav_img: "https://www.baidu.com/favicon.ico",
+        id: "0000001",
+      },
+      {
+        nav: "必应",
+        nav_url: "https://cn.bing.com",
+        nav_img: "https://cn.bing.com/favicon.ico",
+        id: "0000002",
+      },
+      {
+        nav: "QQ浏览器",
+        nav_url: "https://browser.qq.com",
+        nav_img: "https://browser.qq.com/favicon.ico",
+        id: "0000003",
+      },
+
+    ],
+  }])
 console.log(navList)
 const searchText = ref('')
 const currentSearchEngine = ref("https://www.baidu.com/s?wd=")

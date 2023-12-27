@@ -1,4 +1,4 @@
-export const navList = [
+export const navLists = [
     {
         // https://www.baidu.com/favicon.ico
         title: "浏览器 | 搜索",

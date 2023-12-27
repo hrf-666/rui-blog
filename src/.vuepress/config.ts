@@ -1,17 +1,12 @@
 import {defineUserConfig} from "vuepress";
 import {searchProPlugin} from "vuepress-plugin-search-pro";
 import {gitPlugin} from "@vuepress/plugin-git";
-import { getDirname, path } from "@vuepress/utils";
-
+// import { getDirname, path } from "@vuepress/utils";
 // const __dirname = getDirname(import.meta.url);
 
 
 import theme from "./theme.js";
 
-// @ts-ignore
-// @ts-ignore
-// @ts-ignore
-// @ts-ignore
 export default defineUserConfig({
     base: "/ruiblogs/",
     lang: "zh-CN",

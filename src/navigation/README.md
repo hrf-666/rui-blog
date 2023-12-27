@@ -4,13 +4,16 @@ layout: page
 sidebar: false
 ---
 
+[//]: # (```component Navigate)
 
-[//]: # (<Navigate />)
+[//]: # (```)
 
-[//]: # ()
-[//]: # (<script>)
 
-[//]: # (import Navigate from "@Navigate";)
+<Navigate />
+
+[//]: # (<script setup lang="ts">)
+
+[//]: # (import Navigate from "@source/components/Navigate.vue";)
 
 [//]: # (</script>)
 
@@ -18,3 +21,12 @@ sidebar: false
 [//]: # (// import Navigate from "@Navigate";)
 
 [//]: # (import Client from "./components/Client.vue";)
+[//]: # (<Navigate />)
+
+[//]: # ()
+[//]: # (<script setup lang="ts">)
+
+[//]: # (import Navigate from "@Navigate";)
+
+[//]: # (</script>)
+
