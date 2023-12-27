@@ -1,15 +1,6 @@
 ---
-title: 面渣逆袭必看，面试题八股文Java基础、Java 集合框架、Java 并发编程、JVM、Spring、Redis、MyBatis、MySQL、操作系统、计算机网络、RocketMQ、分布式、微服务👍
-shortTitle: 面渣逆袭
-description: 面试前必读系列！包括 Java 基础（JavaSE）、Java 集合框架、Java 并发编程（Java 多线程）、Java 虚拟机（JVM）、Spring、Redis、MyBatis、MySQL、操作系统、计算机网络、RocketMQ、分布式、微服务 等等。
-category:
-  - 面渣逆袭
-tag:
-  - 面渣逆袭
-head:
-  - - meta
-    - name: keywords
-      content: Java面试题,JavaSE面试题,Java基础面试题,Java集合框架面试题,Java容器面试题,Java虚拟机面试题,JVM面试题,Spring面试题,Redis面试题,MyBatis面试题,MySQL面试题,操作系统面试题,OS面试题,计算机网络面试题,RocketMQ面试题,面试题,八股文,java,springboot,spring,jvm,redis,mybatis,mysql,操作系统,计算机网络,RocketMQ,分布式,微服务
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 大家好，我是二哥呀，今天给大家隆重推荐一位美团后端研发工程师（网名三分恶，二哥非常好的一位朋友）的面渣逆袭手册。

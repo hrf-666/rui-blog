@@ -1,16 +1,6 @@
 ---
-title: Java并发编程面试题，60道Java多线程八股文（2.1万字92张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-Java并发编程
-author: 三分恶
-category:
-  - 面渣逆袭
-tag:
-  - 面渣逆袭
-description: 下载次数超 1 万次，2.1 万字 92 张手绘图，详解 60 道 Java 多线程面试高频题（让天下没有难背的八股），面渣背会这些并发编程八股文，这次吊打面试官，我觉得稳了（手动 dog）。
-head:
-  - - meta
-    - name: keywords
-      content: Java,Thread,Java并发编程,Java多线程,Java面试题,Java并发编程面试题,面试题,八股文,java
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 

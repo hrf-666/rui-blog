@@ -1,16 +1,6 @@
 ---
-title: 分布式面试题，12道分布式八股文（8千字25张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-分布式
-author: 三分恶
-category:
-  - 面渣逆袭
-tag:
-  - 面渣逆袭
-description: 下载次数超 1 万次，8800 字 25 张手绘图，详解 12 道分布式面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动 dog）。
-head:
-  - - meta
-    - name: keywords
-      content: Java,分布式,Java面试题,分布式面试题,面试题,八股文,java
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 8800 字 25 张手绘图，详解 12 道分布式面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动 dog）。整理：沉默王二，戳[转载链接](https://mp.weixin.qq.com/s/nLwHEmVGtl-2FDugMqYs3A)，作者：三分恶，戳[原文链接](https://mp.weixin.qq.com/s/d84tWIjbcGKhwUptzkO2hQ)。

@@ -1,19 +1,6 @@
 ---
-title: Java面试题之Java基础篇，53道Java基础八股文（1.3万字44张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-Java SE
-author: 三分恶
-category:
-
-- 面渣逆袭
-  tag:
-- 面渣逆袭
-  description: 下载次数超 1 万次，1.3 万字 44 张手绘图，详解53道Java基础面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动 dog）。
-  head:
--
-    - meta
-    - name: keywords
-      content: Java,Java SE,面试题,Java基础面试题,Java面试题,八股文,java,面试,java面试
-
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 1.3 万字 44 张手绘图，详解53道Java基础面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动

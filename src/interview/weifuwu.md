@@ -1,16 +1,6 @@
 ---
-title: 微服务面试题（Dubbo、Spring Cloud），33道微服务八股文（1.4万字33张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-微服务
-author: 三分恶
-category:
-  - 面渣逆袭
-tag:
-  - 面渣逆袭
-description: 下载次数超 1 万次，1.3 万字 33 张手绘图，详解 33 道微服务（Dubbo、Spring Cloud）面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动 dog）
-head:
-  - - meta
-    - name: keywords
-      content: Java,微服务,Spring Cloud,Dubbo,面试题,八股文,Microservices
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 1.4 万字 33 张手绘图，详解 33 道微服务（Dubbo、Spring Cloud）面试高频题（让天下没有难背的八股），面渣背会这些八股文，这次吊打面试官，我觉得稳了（手动 dog）。整理：沉默王二，戳[转载链接](https://mp.weixin.qq.com/s/IgY6cU_5Xic-2KAAhxK9MA)，作者：三分恶，戳[原文链接](https://mp.weixin.qq.com/s/S8_I9mDNh7XnnQaXJFr2CQ)。

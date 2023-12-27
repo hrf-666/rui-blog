@@ -1,16 +1,6 @@
 ---
-title: MyBatis面试题，20道MyBatis八股文（6千字30张手绘图），面渣逆袭必看👍
-shortTitle: 面渣逆袭-MyBatis
-author: 三分恶
-category:
-  - 面渣逆袭
-tag:
-  - 面渣逆袭
-description: 下载次数超 1 万次，6400 字 30 张手绘图，详解 20 道 MyBatis 面试高频题（让天下没有难背的八股），面渣背会这些 MyBatis 八股文，这次吊打面试官，我觉得稳了（手动 dog）。
-head:
-  - - meta
-    - name: keywords
-      content: MyBatis面试题,MyBatis,面试题,八股文
+icon: pen-to-square
+date: 2022-01-09
 ---
 
 6400 字 30 张手绘图，详解 20 道 MyBatis 面试高频题（让天下没有难背的八股），面渣背会这些 MyBatis 八股文，这次吊打面试官，我觉得稳了（手动 dog）。整理：沉默王二，戳[转载链接](https://mp.weixin.qq.com/s/en2RgcVx52Ql3tYGLfv3Kw)，作者：三分恶，戳[原文链接](https://mp.weixin.qq.com/s/O_5Id2o9IP4loPazJuiHng)。
