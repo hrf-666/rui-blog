@@ -1,8 +1,6 @@
 import {defineUserConfig} from "vuepress";
 import {searchProPlugin} from "vuepress-plugin-search-pro";
 import {gitPlugin} from "@vuepress/plugin-git";
-// import { getDirname, path } from "@vuepress/utils";
-// const __dirname = getDirname(import.meta.url);
 
 
 import theme from "./theme.js";
@@ -13,9 +11,6 @@ export default defineUserConfig({
     title: "Rui的博客 | Rui Blog",
     description: "技术分享，资源分享",
     theme,
-    // alias: {
-    //     "@Navigate": path.resolve(__dirname, "components/Navigate.vue"),
-    // },
     // Enable it with pwa
     shouldPrefetch: false,
     plugins: [

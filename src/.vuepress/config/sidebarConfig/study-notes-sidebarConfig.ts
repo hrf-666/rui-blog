@@ -1,39 +1,38 @@
 export const study_notes_sidebarConfig = [
         {
-            title: '后端',   // 必要的
-            path: '/study-notes/back-end/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+            text: '后端',   // 必要的
+            link: '/study-notes/back-end/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
             initialOpenGroupIndex: -1, // 可选的, 默认值是 0
-            collapsable: false, // 可选的, 默认值是 true,
-            sidebarDepth: 1,    // 可选的, 默认值是 1
+            collapsible: false, // 可选的, 默认值是 true,
             children: "structure",
             // children: [
             //     {
-            //         title: 'Java',   // 必要的
-            //         path: '/study-notes/back-end/java/',
+            //         text: 'Java',   // 必要的
+            //         link: '/study-notes/back-end/java/',
             //         children: [
             //             {
-            //                 title: 'Java基础',   // 必要的
-            //                 path: '/study-notes/back-end/java/basic/'
+            //                 text: 'Java基础',   // 必要的
+            //                 link: '/study-notes/back-end/java/basic/'
             //             },
             //             {
-            //                 title: 'JavaSE',   // 必要的
-            //                 path: '/study-notes/back-end/java/javase/',
+            //                 text: 'JavaSE',   // 必要的
+            //                 link: '/study-notes/back-end/java/javase/',
             //             }
             //         ]
             //     },
             //     {
-            //         title: 'Python',   // 必要的
-            //         path: '/study-notes/back-end/python/'
+            //         text: 'Python',   // 必要的
+            //         link: '/study-notes/back-end/python/'
             //     }
             // ]
         },
         {
-            title: '前端',
-            path: '/study-notes/front-end/',
-            collapsable: false, // 可选的, 默认值是 true,
+            text: '前端',
+            link: '/study-notes/front-end/',
+            collapsible: false, // 可选的, 默认值是 true,
             children: [{
-                title: 'html',   // 必要的
-                path: '/study-notes/front-end/html/'
+                text: 'html',   // 必要的
+                link: '/study-notes/front-end/html/'
             }],
         }
     ]
