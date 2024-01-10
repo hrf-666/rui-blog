@@ -4,4 +4,8 @@ sidebar: false
 ---
 
 
-nihao
+
+::: info
+信息容器。
+:::
+

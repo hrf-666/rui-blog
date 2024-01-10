@@ -1,6 +1,7 @@
 import {hopeTheme} from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
+import * as path from "path";
 const {blogConfig} = require("./config/blogConfig");
 const {encryptConfig} = require("./config/encryptConfig")
 const {authorConfig} = require("./config/authorConfig")
@@ -25,4 +26,7 @@ export default hopeTheme({
     // },
 
     plugins: pluginsConfig,
+
+
 });
+

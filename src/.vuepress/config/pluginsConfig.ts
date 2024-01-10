@@ -1,3 +1,6 @@
+import * as path from "path";
+// const {Navigate} = require("../components/Navigate.vue")
+// import Navigate from '../components/Navigate.vue';
 export const pluginsConfig = {
     blog: true,
     // 文件夹下的文件列表自动为每个文件夹生成目录页面
@@ -25,7 +28,13 @@ export const pluginsConfig = {
     // },
     mdEnhance: {
         component: true,
+        // 这是默认选项，所以你可以直接使用它
+        container: true,
     },
+    // custom: {
+    //     // Navigate: "../components/Navigate.vue",
+    //     Navigate: path.resolve(__dirname, "../components/Navigate.vue"),
+    // },
 
     // all features are enabled for demo, only preserve features you need here
     // mdEnhance: {

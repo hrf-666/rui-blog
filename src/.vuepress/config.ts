@@ -4,6 +4,7 @@ import {gitPlugin} from "@vuepress/plugin-git";
 
 
 import theme from "./theme.js";
+import {customRef} from "vue";
 
 export default defineUserConfig({
     base: "/ruiblogs/",
