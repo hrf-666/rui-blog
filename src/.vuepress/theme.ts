@@ -19,14 +19,11 @@ export default hopeTheme({
     displayFooter: true,
     blog: blogConfig,
     encrypt: encryptConfig,
+    plugins: pluginsConfig,
 
     // page meta
     // metaLocales: {
     //     editLink: "在 GitHub 上编辑此页",
     // },
-
-    plugins: pluginsConfig,
-
-
 });
 

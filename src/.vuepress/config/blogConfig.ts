@@ -1,5 +1,5 @@
 export const blogConfig = {
-    // 头像剪切未圆形
+    // 头像剪切为圆形
     roundAvatar: true,
     description: "致力于编码实践",
     intro: "/intro.html",
