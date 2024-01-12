@@ -30,11 +30,11 @@ export const blogConfig = {
         // Rss: "https://example.com",
         // Steam: "https://example.com",
         // Twitter: "https://example.com",
-        Wechat: "https://example.com",
+        Wechat: "https://mp.weixin.qq.com/s/2J4rZKZsM7868mBzeBAYRg",
         // Weibo: "https://example.com",
         // Whatsapp: "https://example.com",
         // Youtube: "https://example.com",
-        Zhihu: "https://example.com",
+        Zhihu: "https://www.zhihu.com/topic/19550228/top-answers",
         // MrHope: ["https://mister-hope.com", MR_HOPE_AVATAR],
     },
 }
