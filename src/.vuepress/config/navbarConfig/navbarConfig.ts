@@ -1,6 +1,7 @@
 export const navbarConfig = [
     {text: '首页', icon: "pen-to-square", link: '/'},
-    {text: '程序员导航', icon: "pen-to-square", link: '/navigation/',},
+    // {text: '程序员导航', icon: "pen-to-square", link: '/navigation/',},
+    {text: '程序员导航', icon: "pen-to-square", link: 'https://guide.lautrans.cn/',},
     {
         text: '面试',
         icon: "pen-to-square",
