@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://huang-ruifang.gitee.io/ruiblogs/ruiblogs/sitemap.xml
