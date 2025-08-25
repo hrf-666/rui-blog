@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t,a as n}from"./app-b6dadc18.js";const c={},_=n("p",null,"nihao",-1),s=[_];function r(a,i){return o(),t("div",null,s)}const f=e(c,[["render",r],["__file","index.html.vue"]]);export{f as default};
